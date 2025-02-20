@@ -1,2 +1,5 @@
-# Management-and-handling-of-CEUS-payments
-system for personnel management and payment control in CEUS
+# GestiónCEUS
+
+
+
+Sistema para la gestión de personas y manejo de pagos en el Centro Estudiantil Universitario Semillas (CEUS).
